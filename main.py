@@ -26,4 +26,4 @@ Cxy_dB = 10*math.log(1-(Cxy/100));
 plt.semilogy(f,Cxy_dB)
 plt.show()
 
-test=0
+test=2
