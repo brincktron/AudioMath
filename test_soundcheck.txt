@@ -1,0 +1,15 @@
+Comment: 	Comment: 	
+unity cal (Read only)-in corr-in	1.000	0.000
+	100000.000	0.000
+x data lin		
+y data dB		
+z data lin		
+		
+x axis log		
+y axis lin		
+z axis lin		
+		
+Hz		
+dB re 1 		
+deg.		
+		
